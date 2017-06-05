@@ -20,14 +20,14 @@
 ### RESEARCH EXPERIENCE
 ------
 #### Student leader, Data Driven Based Health Management System for CNC Machine Tools
-Jan. 2015-present
+Jan. 2015-present,
 Research grant (2014ZX04015-021) from National Major Projects of Science and Technology
 * Develop a health assessment software based on the C# and HNC 2nd-development interface.
 * It is used for the sensor data acquisition and preprocessing, the online real-time monitoring, the storage of the data, and the assessment and prediction algorithms of machining performance.
 * This research contains a cutting tool performance assessment algorithm based on the reduced dimensional features and Random Forests classification, the Laplacian Eigenmaps and Mahalanobis distance based ball screw performance metric, and effectively achieves health assessment of key components of CNC machine tools.
 
 #### Student leader, Intelligent Maintenance System for Key Components of Shield Machine Based on Big Data
-Jan. 2016-present
+Jan. 2016-present,
 Research grant (No. 13231200500) from Shanghai 2013 S&T Innovation Action Plan for National Development Program
 * This research uses data dimension reduction and Mahalanobis distance methods to characterize the features of sensor variables, and effectively carries out life analysis and prediction of key components
 
@@ -44,13 +44,13 @@ Dec. 2013-Jun. 2014
 * Develop a rail vehicle lightpen vision measurement system based on VC++ & OpenCV
 
 #### Leader, Intelligent Operation and Maintenance Platform for Taxi Based on Data Driven
-Sept. 2012-Jun. 2013
+Sept. 2012-Jun. 2013,
 Funded by Undergraduate Innovation and Entrepreneurship Training Program
 * Online multiplication and rule matching based on user data and operational data
 * Optimization of vehicle routing and co-ride matching algorithm
 
 #### Research Program in Data Research & Development Institute of Shanghai Maxtropy Data Technology Co., Ltd
-Jan. 2016-Jan. 2017    
+Jan. 2016-Jan. 2017   
 * Explore the shopping behavior model based on historical and time series data of E - commerce coupons
 * Development of parts quality monitoring algorithm for auto parts production Line based on signal processing and machine learning
 * Participate in the research of “Deep Learning based Power Prediction Methodology for Solar Power Station”
