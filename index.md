@@ -18,32 +18,32 @@
 
 ## RESEARCH EXPERIENCE
 ------
-### Student leader, Data Driven Based Health Management System for CNC Machine Tools
+#### Student leader, Data Driven Based Health Management System for CNC Machine Tools
 Research grant (2014ZX04015-021) from National Major Projects of Science and Technology
 * Develop a health assessment software based on the C# and HNC 2nd-development interface.
 * It is used for the sensor data acquisition and preprocessing, the online real-time monitoring, the storage of the data, and the assessment and prediction algorithms of machining performance.
 * This research contains a cutting tool performance assessment algorithm based on the reduced dimensional features and Random Forests classification, the Laplacian Eigenmaps and Mahalanobis distance based ball screw performance metric, and effectively achieves health assessment of key components of CNC machine tools.
 
-### Student leader, Intelligent Maintenance System for Key Components of Shield Machine Based on Big Data
+#### Student leader, Intelligent Maintenance System for Key Components of Shield Machine Based on Big Data
 Research grant (No. 13231200500) from Shanghai 2013 S&T Innovation Action Plan for National Development Program
 * This research uses data dimension reduction and Mahalanobis distance methods to characterize the features of sensor variables, and effectively carries out life analysis and prediction of key components
 
-### Leader, Research on CMP Material Removal Rate Prediction Based on Machine Learning
+#### Leader, Research on CMP Material Removal Rate Prediction Based on Machine Learning
 * Wafer Material Removal Prediction based on Hierarchical Fusion Model for CMP
 * Conduct a feature-level fusion, model-level fusion algorithm to achieve a precise rate prediction
 * Application prospects in embedded control system of wafer polishing machine 
 
-### Leader, Rail Vehicle Measurement System Based on Machine Vision
+#### Leader, Rail Vehicle Measurement System Based on Machine Vision
 * Design an improved five-point structure of the lightpen and a multi feature structure of measuring head for measurement of workpiece feature points
 * The accurate recognition algorithm of light pen image and the 3D modeling of spatial structure point cloud
 * Develop a rail vehicle lightpen vision measurement system based on VC++ & OpenCV
 
-### Leader, Intelligent Operation and Maintenance Platform for Taxi Based on Data Driven
+#### Leader, Intelligent Operation and Maintenance Platform for Taxi Based on Data Driven
 Funded by Undergraduate Innovation and Entrepreneurship Training Program
 * Online multiplication and rule matching based on user data and operational data
 * Optimization of vehicle routing and co-ride matching algorithm
 
-### Research Program in Data Research & Development Institute of Shanghai Maxtropy Data Technology Co., Ltd              
+#### Research Program in Data Research & Development Institute of Shanghai Maxtropy Data Technology Co., Ltd              
 * Explore the shopping behavior model based on historical and time series data of E - commerce coupons
 * Development of parts quality monitoring algorithm for auto parts production Line based on signal processing and machine learning
 * Participate in the research of “Deep Learning based Power Prediction Methodology for Solar Power Station”
@@ -68,15 +68,15 @@ Funded by Undergraduate Innovation and Entrepreneurship Training Program
 
 ## SCHOLASTIC AWARDS
 ------
-> *	Global 3rd Place, PHM Society Data Challenge
-> *	Bronze Award, National "Internet +" Innovation & Entrepreneurship Competition
+> *	**Global 3rd Place, PHM Society Data Challenge**
+> *	**Bronze Award, National "Internet +" Innovation & Entrepreneurship Competition**
 > *	2nd Prize, National Graduate Student Mathematical Contest
 > *	2nd Prize, National Graduate Student Mathematical Contest
 > *	3rd Prize, TiC100 Smart City and IOT Entrepreneurship Contest
 > *	3rd Prize, National Competition of Transport Science and Technology for Students
 > *	3rd Prize, National MCM for Undergraduate Students in Hunan Prov., China
 
-> *	Graduate National Scholarship (Top 2%)
+> *	**Graduate National Scholarship (Top 2%)**
 > *	Tang-Lixin Scholarship (Top 0.2%)
 > *	Voith Scholarship (Top 5%)
 > *	First-class academic Excellence Scholarship of Shanghai Jiao Tong Univ. (Twice)
