@@ -20,31 +20,37 @@
 ### RESEARCH EXPERIENCE
 ------
 #### Student leader, Data Driven Based Health Management System for CNC Machine Tools
+Jan. 2015-present
 Research grant (2014ZX04015-021) from National Major Projects of Science and Technology
 * Develop a health assessment software based on the C# and HNC 2nd-development interface.
 * It is used for the sensor data acquisition and preprocessing, the online real-time monitoring, the storage of the data, and the assessment and prediction algorithms of machining performance.
 * This research contains a cutting tool performance assessment algorithm based on the reduced dimensional features and Random Forests classification, the Laplacian Eigenmaps and Mahalanobis distance based ball screw performance metric, and effectively achieves health assessment of key components of CNC machine tools.
 
 #### Student leader, Intelligent Maintenance System for Key Components of Shield Machine Based on Big Data
+Jan. 2016-present
 Research grant (No. 13231200500) from Shanghai 2013 S&T Innovation Action Plan for National Development Program
 * This research uses data dimension reduction and Mahalanobis distance methods to characterize the features of sensor variables, and effectively carries out life analysis and prediction of key components
 
 #### Leader, Research on CMP Material Removal Rate Prediction Based on Machine Learning
+Jul. 2016-Jan. 2017
 * Wafer Material Removal Prediction based on Hierarchical Fusion Model for CMP
 * Conduct a feature-level fusion, model-level fusion algorithm to achieve a precise rate prediction
 * Application prospects in embedded control system of wafer polishing machine 
 
 #### Leader, Rail Vehicle Measurement System Based on Machine Vision
+Dec. 2013-Jun. 2014
 * Design an improved five-point structure of the lightpen and a multi feature structure of measuring head for measurement of workpiece feature points
 * The accurate recognition algorithm of light pen image and the 3D modeling of spatial structure point cloud
 * Develop a rail vehicle lightpen vision measurement system based on VC++ & OpenCV
 
 #### Leader, Intelligent Operation and Maintenance Platform for Taxi Based on Data Driven
+Sept. 2012-Jun. 2013
 Funded by Undergraduate Innovation and Entrepreneurship Training Program
 * Online multiplication and rule matching based on user data and operational data
 * Optimization of vehicle routing and co-ride matching algorithm
 
-#### Research Program in Data Research & Development Institute of Shanghai Maxtropy Data Technology Co., Ltd              
+#### Research Program in Data Research & Development Institute of Shanghai Maxtropy Data Technology Co., Ltd
+Jan. 2016-Jan. 2017    
 * Explore the shopping behavior model based on historical and time series data of E - commerce coupons
 * Development of parts quality monitoring algorithm for auto parts production Line based on signal processing and machine learning
 * Participate in the research of “Deep Learning based Power Prediction Methodology for Solar Power Station”
@@ -100,12 +106,13 @@ NI LabVIEW CLAD (Certified LabVIEW Associate Developer)
 ### EXTRACURRICULAR ORGANIZATIONS
 ------
 #### Vice-chairman, Graduate Student Council of School of Mechanical Engineering                 
-> *	I was in charge of publicity work and also participated in the planning and organization of large-scale student activities. 
-> *	As a team leader, I attended the social practice program of “Industrial Power Dream” to study the development of smart factory from Jun. 2015 to Nov. 2015, and the research results were reported by the China Youth Online, sohu.com, ifeng.com, etc. 
-> *	The National 3rd-prize (Top 5%)
-> *	Excellent Team, Excellent Report and Excellent Project in Shanghai
+*	I was in charge of publicity work and also participated in the planning and organization of large-scale student activities. 
+*	As a team leader, I attended the social practice program of “Industrial Power Dream” to study the development of smart factory from Jun. 2015 to Nov. 2015, and the research results were reported by the China Youth Online, sohu.com, ifeng.com, etc. 
+*	The National 3rd-prize (Top 5%)
+*	Excellent Team, Excellent Report and Excellent Project in Shanghai
+
 #### Deputy Secretary-General, Li-Yuan Academic Forum of Shanghai Jiao Tong University
-> *	Organize and plan academic salons. Organize a PHD candidate academic forum.
+*	Organize and plan academic salons. Organize a PHD candidate academic forum.
 
 ### HOBBIES
 ------
