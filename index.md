@@ -8,6 +8,7 @@
 #### M.S. Mechanical Engineering, Shanghai Jiao Tong University
 * Focus on industrial big data, remote monitoring and intelligent maintenance system, applied machine learning in intelligent prediction
 * GPA 3.63/4 (Score 89/100)
+
 #### B.E. Transportation Equipment & Information Engineering, Central South University
 *	Score 90.49/100, Rank top 2%
 
