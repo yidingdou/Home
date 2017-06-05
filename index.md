@@ -3,7 +3,7 @@
 > * +86 182-0182-8238
 
 
-### EDUCATION
+### ![EDUCATION](http://static.500sucai.com/upload/image/201507/49e890cd-029d-4323-ba30-8ff446621c4b.png)EDUCATION
 ------
 #### M.S. Mechanical Engineering, Shanghai Jiao Tong University
 > * Focus on industrial big data, remote monitoring and intelligent maintenance system, applied machine learning in intelligent prediction
