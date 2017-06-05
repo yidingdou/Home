@@ -3,20 +3,20 @@
 > * +86 182-0182-8238
 
 
-## EDUCATION
+### EDUCATION
 ------
-### M.S. Mechanical Engineering, Shanghai Jiao Tong University
+#### M.S. Mechanical Engineering, Shanghai Jiao Tong University
 > * Focus on industrial big data, remote monitoring and intelligent maintenance system, applied machine learning in intelligent prediction
 > * GPA 3.63/4 (Score 89/100)
-### B.E. Transportation Equipment & Information Engineering, Central South University
+#### B.E. Transportation Equipment & Information Engineering, Central South University
 > *	Score 90.49/100, Rank top 2%
 
-## RESEARCH INTERESTS
+### RESEARCH INTERESTS
 ------
 > *	Industrial big data analysis, Data science, Applied machine learning in intelligent prediction
 > *	Remote monitoring and intelligent maintenance system, Signal processing and feature engineering
 
-## RESEARCH EXPERIENCE
+### RESEARCH EXPERIENCE
 ------
 #### Student leader, Data Driven Based Health Management System for CNC Machine Tools
 Research grant (2014ZX04015-021) from National Major Projects of Science and Technology
@@ -48,7 +48,7 @@ Funded by Undergraduate Innovation and Entrepreneurship Training Program
 * Development of parts quality monitoring algorithm for auto parts production Line based on signal processing and machine learning
 * Participate in the research of “Deep Learning based Power Prediction Methodology for Solar Power Station”
 
-## PUBLICATIONS
+### PUBLICATIONS
 ------
 > *	Zhao, S., Huang, Y., Wang, H., Liu, C., Li, Y., & Liu, X. (2016). A modified Mahalanobis-Taguchi System analysis for monitoring of ball screw health assessment. IEEE International Conference on Prognostics and Health Management (pp.1-7). IEEE. (EI Indexed)
 > *	Zhao, S., Huang, Y., Liu, C., Li, L., & Wang, J. (2016). Kernel PCA and Mahalanobis Distance based health assessment methodology for the cutting wheel of mixshield machine. IEEE/ASME International Conference on Mechatronic and Embedded Systems and Applications (pp.1-6). IEEE. (EI Indexed)
@@ -57,16 +57,16 @@ Funded by Undergraduate Innovation and Entrepreneurship Training Program
 > *	Zhao, Shuai, et al. "Random Forest and Principle Components Analysis based Health Assessment Methodology for Tool Wear." Journal of Mechanical Engineering. (Excepted at May. 2017, EI Indexed)
 
 
-## PATENT & SOFTWARE COPYRIGHT
+### PATENT & SOFTWARE COPYRIGHT
 ------
-### Patent disclosure
+#### Patent disclosure
 > *	A Method for Evaluating the Health Status of Ball Screw 
 > *	Somatosensory Game Bracelet System Based on Action Template Feature Matching 
 > *	Network Management System and Control Method based on Smart Trash Can 
-### Software Copyright Authorization
+#### Software Copyright Authorization
 > *	LE-MD Ball Screw Health Status Assessment Software
 
-## SCHOLASTIC AWARDS
+### SCHOLASTIC AWARDS
 ------
 > *	**Global 3rd Place, PHM Society Data Challenge**
 > *	**Bronze Award, National "Internet +" Innovation & Entrepreneurship Competition**
@@ -84,28 +84,28 @@ Funded by Undergraduate Innovation and Entrepreneurship Training Program
 > *	Undergraduate National Scholarship (Top 1%) 
 > *	Central South University Top-level Scholarship (3 times)
 
-## SKILLS
+### SKILLS
 ------
-### Language
+#### Language
 Good reading and writing skills in English, IELTS 6.0, Japanese beginners
-### Programming	 
+#### Programming	 
 C++, C#, Python, Java, SQL, MATLAB, Andriod, OpenCV, Spark, Mxnet
-### Professional software  
+#### Professional software  
 UG NX, Pro/E, AutoCAD, Altium Designer, MaxCompute, PhotoShop, Premerie, 
-### Certificate		
+#### Certificate		
 National Computer Rank Examination Band III (Network Technology)
 NI LabVIEW CLAD (Certified LabVIEW Associate Developer)
 
-## EXTRACURRICULAR ORGANIZATIONS
+### EXTRACURRICULAR ORGANIZATIONS
 ------
-### Vice-chairman, Graduate Student Council of School of Mechanical Engineering                 
+#### Vice-chairman, Graduate Student Council of School of Mechanical Engineering                 
 > *	I was in charge of publicity work and also participated in the planning and organization of large-scale student activities. 
 > *	As a team leader, I attended the social practice program of “Industrial Power Dream” to study the development of smart factory from Jun. 2015 to Nov. 2015, and the research results were reported by the China Youth Online, sohu.com, ifeng.com, etc. 
 > *	The National 3rd-prize (Top 5%)
 > *	Excellent Team, Excellent Report and Excellent Project in Shanghai
-### Deputy Secretary-General, Li-Yuan Academic Forum of Shanghai Jiao Tong University
+#### Deputy Secretary-General, Li-Yuan Academic Forum of Shanghai Jiao Tong University
 > *	Organize and plan academic salons. Organize a PHD candidate academic forum.
 
-## HOBBIES
+### HOBBIES
 ------
 Travel, Design, Photography, Chinese literature, Music
